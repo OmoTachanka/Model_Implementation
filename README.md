@@ -1,3 +1,3 @@
-#**Implementing Models from scratch**
+# **Implementing Models from scratch**
 
-* VGG ✅
+* VGGNet ✅
